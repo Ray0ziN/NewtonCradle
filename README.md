@@ -8,8 +8,8 @@ Simple timer app inspired by Newton's Cradle. Created in Jetpack Compose for [#A
 
 
 ## :bulb: Motivation and Context
-The goal was to create something simple yet playful to demonstrate (and evaluate) capabilities of Jetpack Compose.  
-The result is a (up to) 1 minute timer trying to recreate Newton's Cradle.
+The goal was to create something simple yet playful to demonstrate capabilities of Jetpack Compose.  
+The result is a 1 minute timer trying to recreate Newton's Cradle which can be used to Meditate daily.
 
 Some highlights and links to code:
 - Drawing first ball trajectory and hint animation to setup the timer:
